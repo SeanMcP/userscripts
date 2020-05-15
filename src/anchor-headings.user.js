@@ -18,7 +18,7 @@
             anchor.textContent = "#"
             anchor.href = window.location.origin + window.location.pathname + "#" + node.id
             anchor.style.marginLeft = "0.5rem"
-            anchor.dataset.userScriptAnchor = "true"
+            anchor.title = "Added by anchor headings"
             node.appendChild(anchor)
         }
     })
