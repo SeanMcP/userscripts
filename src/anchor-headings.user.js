@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Anchor headings
+// @namespace    https://seanmcp.com
 // @version      0.1
 // @description  Add anchors to all headings with ids
 // @author       Sean McPherson
