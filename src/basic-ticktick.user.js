@@ -13,7 +13,7 @@
 
     // Your code here...
     const style = document.createElement('style')
-    style.id = "__basicTickTick"
+    style.id = "__basic-ticktick"
 
     style.textContent = `
 #left-bottom-view,
